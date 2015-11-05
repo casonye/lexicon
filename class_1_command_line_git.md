@@ -5,7 +5,7 @@ whoami : This makes the terminal output the current user name.
 pwd : show me where I am in the hierarchy
 cd : change directory
 ls : list the contents of the folder
-cd .. : change directory to where I was before
+cd .. : change directory to desktop
 mkdir : make a new directory
 touch : create a new file within a directory
 cat : return the contents of a file
